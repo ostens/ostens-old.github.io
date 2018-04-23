@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Natrium Theme</title>
+    <title>Pages on Geocoding</title>
     <link>https://ostens.github.io/page/</link>
-    <description>Recent content in Pages on Natrium Theme</description>
+    <description>Recent content in Pages on Geocoding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate>
@@ -17,7 +17,8 @@
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ostens.github.io/about/</guid>
-      <description>Erin Austin Following a BSc (hons) in Physics from the University of St Andrews, I am now working at Imray, Laurie, Norie &amp; WIlson as a GIS Analyst. I&#39;m interested in geospatial problem solving using R and Python, as well as open source packages (OSGeo4W). Check out my blog where I will be posting some of my solutions to geospatial problems as well as general command line shortcuts.</description>
+      <description>Erin Austin Following a BSc in Physics at the University of St Andrews, I am now working at Imray, Laurie, Norie &amp;amp; Wilson as a GIS Analyst. I&amp;rsquo;m interested in geospatial problem solving using R and Python, as well as open source packages (OSGeo4W). Check out my blog where I will be posting some of my solutions to geospatial problems as well as general command line shortcuts.
+Feel free to visit my github or contact me via email.</description>
     </item>
     
     <item>

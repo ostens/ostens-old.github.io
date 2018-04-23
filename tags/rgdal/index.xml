@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rgdal on Geocoding</title>
+    <link>https://ostens.github.io/tags/rgdal/</link>
+    <description>Recent content in Rgdal on Geocoding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Apr 2018 20:13:40 +0100</lastBuildDate>
+    
+	<atom:link href="https://ostens.github.io/tags/rgdal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cropping Rasters Using a Shapefile</title>
+      <link>https://ostens.github.io/cropping-rasters-using-a-shapefile/</link>
+      <pubDate>Mon, 23 Apr 2018 20:13:40 +0100</pubDate>
+      
+      <guid>https://ostens.github.io/cropping-rasters-using-a-shapefile/</guid>
+      <description>At work I&amp;rsquo;m regularly delivered a batch of third-party geotiffs. They arrive in a localised projection and need to be converted into EPSG3857. Most annoyingly, some of the third-party providers don&amp;rsquo;t provide inset plans separately, so each time we&amp;rsquo;re sent updates, the inset plans need to cropped from the main charts and georeferenced.
+To attempt to automate the process, I set up shapefiles for each inset plan, with a &amp;ldquo;chart&amp;rdquo; attribute corresponding to the main chart they would be derived from, and a &amp;ldquo;plan&amp;rdquo; attribute which they would eventually be named.</description>
+    </item>
+    
+  </channel>
+</rss>

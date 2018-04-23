@@ -3,17 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ostens.github.io/using-osgeo4w/</loc>
-    <lastmod>2018-04-17T18:43:55+01:00</lastmod>
+    <loc>https://ostens.github.io/cropping-rasters-using-a-shapefile/</loc>
+    <lastmod>2018-04-23T20:13:40+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://ostens.github.io/about/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ostens.github.io/extending-this-logic/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,71 +18,31 @@
   </url>
   
   <url>
-    <loc>https://ostens.github.io/the-actor-is-a-gander/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ostens.github.io/the-beach-is-a-push/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ostens.github.io/tags/actor/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ostens.github.io/tags/beach/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ostens.github.io/tags/bookcase/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ostens.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ostens.github.io/tags/fahrenheit/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <loc>https://ostens.github.io/tags/gdalutils/</loc>
+    <lastmod>2018-04-23T20:13:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ostens.github.io/tags/interest/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ostens.github.io/tags/lamb/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ostens.github.io/categories/metaphorsum/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <loc>https://ostens.github.io/tags/gdalwarp/</loc>
+    <lastmod>2018-04-23T20:13:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ostens.github.io/</loc>
-    <lastmod>2018-04-17T18:43:55+01:00</lastmod>
+    <lastmod>2018-04-23T20:13:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ostens.github.io/tags/nothing/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <loc>https://ostens.github.io/categories/geospatial/</loc>
+    <lastmod>2018-04-23T20:13:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -98,44 +53,38 @@
   </url>
   
   <url>
-    <loc>https://ostens.github.io/categories/post/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ostens.github.io/post/</loc>
-    <lastmod>2018-04-17T18:43:55+01:00</lastmod>
+    <lastmod>2018-04-23T20:13:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ostens.github.io/tags/riddles/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <loc>https://ostens.github.io/tags/r/</loc>
+    <lastmod>2018-04-23T20:13:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ostens.github.io/tags/shell/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <loc>https://ostens.github.io/tags/raster/</loc>
+    <lastmod>2018-04-23T20:13:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ostens.github.io/tags/snowflakes/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <loc>https://ostens.github.io/tags/rgdal/</loc>
+    <lastmod>2018-04-23T20:13:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ostens.github.io/tags/shapefile/</loc>
+    <lastmod>2018-04-23T20:13:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ostens.github.io/tags/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ostens.github.io/tags/visitor/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-23T20:13:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
