@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gdal_translate on Geocoding</title>
+    <link>https://ostens.github.io/tags/gdal_translate/</link>
+    <description>Recent content in Gdal_translate on Geocoding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Jun 2018 18:15:53 +0100</lastBuildDate>
+    
+	<atom:link href="https://ostens.github.io/tags/gdal_translate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Command Line Reprojection</title>
+      <link>https://ostens.github.io/command-line-reprojection/</link>
+      <pubDate>Sat, 23 Jun 2018 18:15:53 +0100</pubDate>
+      
+      <guid>https://ostens.github.io/command-line-reprojection/</guid>
+      <description>A lot of the data manipulation I do is FME-based these days for ease of use, but for reprojecting rasters the gdal toolset is just superior to any other tool because it requires no foreknowledge of the original projection of the dataset.
+In many cases I&amp;rsquo;ll have a set of rasters which are all in slightly different projections (with different scaling latitudes, for example), so being able to reproject each raster on-the-fly is really useful.</description>
+    </item>
+    
+  </channel>
+</rss>
